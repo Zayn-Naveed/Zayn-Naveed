@@ -21,6 +21,7 @@
 | Project | Description | Live Demo | Code |
 |---|---|---|---|
 | Portfolio Hero Slider | Dynamic homepage with animated hero slider | [Live](https://creative-dieffenbachia-42a3d1.netlify.app/) | [GitHub](https://github.com/Zayn-Naveed/portfolio_task) |
+| Team Management System | Full stack about page with MongoDB admin panel | [Local](http://localhost:3000) | [GitHub](https://github.com/Zayn-Naveed/portfolio-task2) |
 
 ## 📊 GitHub Stats
 ![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zayn-Naveed&show_icons=true&theme=tokyonight)
